@@ -1,7 +1,4 @@
-# Docker primeira imagem
-## _Este é o projeto onde irei adicionar uma imagem em uma determinada porta determinada porta_
-
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LogoCompasso-positivo.png/440px-LogoCompasso-positivo.png)](https://compass.uol/pt/home/)
+# Criar uma imagem através de um contêiner docker e mostrar em uma determinada_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Jeef-Moreira)
 
